@@ -1,4 +1,4 @@
-# Elements-Game-with-Minimax-Algorithm
+# Elements-AI-Game-with-Minimax-Algorithm
 
 This is a simple zero sum 2 person game of perfect information. The game consists of 3 elements and each player chooses an available element to counter the displayed element. Depending on the relationship between elements a change of game state is applied. The game terminates as soon as 5 moves are made by each player to reduce the game tree size but the number of moves can be changed by updating an if statement in the action listener for the select element button in the Elements class. The number of elements that each player starts with also can be changed by changing the initial values of variables representing these elements in the Logic class.
 
