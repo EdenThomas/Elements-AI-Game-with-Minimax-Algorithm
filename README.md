@@ -8,12 +8,11 @@ The game was developed in Java with the netbeans IDE and requires Java to run.
 
 # Menu Screen
 ![Menu Screen](https://github.com/EdenThomas/Elements-Game-with-Minimax-Algorithm/assets/126813639/9423f0ce-dda5-4899-a7cc-198008d38283)
-
-#Game Screen
+# Game Screen
 ![Game Screen](https://github.com/EdenThomas/Elements-Game-with-Minimax-Algorithm/assets/126813639/79f934b2-2c01-46e9-9d6b-c571d471cc29)
 
-#End of game screen
+# End of game screen
 ![End of game](https://github.com/EdenThomas/Elements-Game-with-Minimax-Algorithm/assets/126813639/04ebf346-845f-4d6d-8cac-348a476c50ed)
 
-#About screen
+# About screen
 ![About screen](https://github.com/EdenThomas/Elements-Game-with-Minimax-Algorithm/assets/126813639/ea0a49a4-9a51-447b-9b04-20e0cfb8c3b1)
